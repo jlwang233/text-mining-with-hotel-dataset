@@ -1,30 +1,36 @@
-## Welcome to GitHub Pages
+## A sentiment analysis with text mining techniques project
 
-You can use the [editor on GitHub](https://github.com/jlwang233/text-mining-with-hotel-dataset/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Things done
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+0. Initial Preparation
 
-- Bulleted
-- List
+1. Data Reading
 
-1. Numbered
-2. List
+2. Data Preprocessing
+- change datatype
+- filter empty values
+- data validation
+- filter valid ratings
+- resampling
 
-**Bold** and _Italic_ and `Code` text
+3. Data Visualisation
+- heatmap
+- wordcount
 
-[Link](url) and ![Image](src)
+4. Data Modelling
+- countVector
+- **SVC**
+- LR
+- RF
+- NB
+- MLP
+- GridSearch
+
+5. Data Reporting
+
 ```
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jlwang233/text-mining-with-hotel-dataset/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
