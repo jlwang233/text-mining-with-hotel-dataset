@@ -23,7 +23,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 4. Data Modelling
 - countVector
-- **SVC**
+- SVC
 - LR
 - RF
 - NB
