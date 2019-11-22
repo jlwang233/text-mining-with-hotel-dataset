@@ -1,8 +1,6 @@
 ## A sentiment analysis with text mining techniques project
 
-### Things done
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Accomplishment
 
 ```markdown
 
